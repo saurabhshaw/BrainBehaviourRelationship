@@ -1,5 +1,7 @@
 # BrainBehaviourRelationship
-Learn common brain-behaviour factors from neuroimaging data already processed through CONN
+Learn common brain-behaviour factors from neuroimaging data already processed through CONN, as done in Shaw et al. 2023
+
+Shaw, S.B., Terpou, B.A., Densmore, M. et al. Large-scale functional hyperconnectivity patterns in trauma-related dissociation: an rs-fMRI study of PTSD and its dissociative subtype. Nat. Mental Health 1, 711–721 (2023). https://doi.org/10.1038/s44220-023-00115-y
 
 # Requirements:
 1. SPM12 toolbox
